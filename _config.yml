@@ -2,6 +2,7 @@ name: BriskUp
 favicon: null
 layout_spectrum: 0.4991
 typography_spectrum: 0.52958
+title: BriskUp
 cta:
   domain: null
   bucket: null
