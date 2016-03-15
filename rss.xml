@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BriskUp]]></title>
         <description><![CDATA[BriskUp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/briskup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 21:16:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 21:16:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/briskup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
-            <link>undefined8bda503b-1287-45ef-8f4f-12eabe47b046/index.html</link>
+            <link>https://thegrid.ai/briskup/fd10bf6a-d8b3-4279-8ecf-2f85ad3f8795/index.html</link>
+            <guid isPermaLink="false">fd10bf6a-d8b3-4279-8ecf-2f85ad3f8795</guid>
+            <pubDate>Tue, 15 Mar 2016 21:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/briskup/8bda503b-1287-45ef-8f4f-12eabe47b046/index.html</link>
             <guid isPermaLink="false">8bda503b-1287-45ef-8f4f-12eabe47b046</guid>
             <pubDate>Tue, 15 Mar 2016 21:15:55 GMT</pubDate>
         </item>
