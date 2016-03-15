@@ -1,0 +1,28 @@
+name: briskup
+favicon: null
+layout_spectrum: 0.22970485221594572
+typography_spectrum: 0.34172367420978844
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.28527261409908533
+  lightness: 0.3870101668871939
+  saturation: 0.8447463889606297
+  rhythmicContrast: 0.801507749594748
+purpose: []
