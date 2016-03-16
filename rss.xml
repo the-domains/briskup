@@ -4,7 +4,7 @@
         <description><![CDATA[BriskUp ]]></description>
         <link>https://thegrid.ai/briskup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 08:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 09:00:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/briskup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How we do it]]></title>
@@ -32,7 +32,7 @@
             <description><![CDATA[<article><h1>Who we are</h1><p></p></article>]]></description>
             <link>https://thegrid.ai/briskup/who/index.html</link>
             <guid isPermaLink="false">19ef273e-50f3-41cf-8fd8-68c88c031e95</guid>
-            <pubDate>Wed, 16 Mar 2016 08:20:36 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 09:00:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
